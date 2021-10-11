@@ -45,4 +45,4 @@ Etc so on.
 **Welcome to PR if you find any errors in it, thanks.**
 
 ## License
-MIT License. See [LICENSE.txt](https://github.com/jcyuan/webgpuconsts/LICENSE.txt) for more information.
+MIT License. See [LICENSE.txt](https://github.com/jcyuan/webgpu-consts/blob/master/LICENSE.txt) for more information.
